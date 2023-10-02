@@ -4,11 +4,11 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Hide a check box from cetrain grid cells
+# WinForms Data Grid - Hide a check box from certain grid cells
 
 This example creates an empty repository item and handles the [CustomRowCellEdit]() event to assign it to grid cells based on a specific condition:
 
-![WinForms Data Grid - Hide a check box from cetrain grid cells](https://raw.githubusercontent.com/DevExpress-Examples/how-to-hide-a-check-box-in-a-grid-cell-e693/13.1.4%2B/media/winforms-grid-empty-editor.png)
+![WinForms Data Grid - Hide a check box from certain grid cells](https://raw.githubusercontent.com/DevExpress-Examples/how-to-hide-a-check-box-in-a-grid-cell-e693/13.1.4%2B/media/winforms-grid-empty-editor.png)
 
 ```csharp
 RepositoryItem emptyEditor;
